@@ -62,7 +62,10 @@ This application can be deployed locally or if you wish to deploy this applicati
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" title="Chrome" alt="Chrome" width="50" height="50"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="Tailwind" width="50" height="50"/>&nbsp;
+<img src="https://camo.githubusercontent.com/7c669e872b214571ae0b5097e8d3db369225a806dc2ce9a436cde3497164310c/687474703a2f2f6d6f6e676f64622d746f6f6c732e636f6d2f696d672f6d6f6e676f6f73652e706e67" title="Mongoose" alt="Mongoose" width="80" height="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="50" height="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="50" height="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="Github" alt="Github" width="50" height="50"/>&nbsp;
@@ -109,8 +112,8 @@ This application utilises the [ISC License](https://opensource.org/licenses/ISC 
 ## Deployed Application
 
 <div id="badges">
-  <a href="https://github.com/riz1ash786/book-search-engine">
-    <img src="https://img.shields.io/badge/HEROKU-Book Search Engine-blue?style=for-the-badge&logo=GITHUBPAGES&logoColor=white" alt="Text EditorHeroku Link"/>
+  <a href="https://googlebooks-application.herokuapp.com/">
+    <img src="https://img.shields.io/badge/HEROKU-Book Search Engine-blue?style=for-the-badge&logo=HEROKU&logoColor=white" alt="Heroku Link"/>
   </a>
 </div>
 
@@ -120,7 +123,7 @@ This application utilises the [ISC License](https://opensource.org/licenses/ISC 
 
 <div id="badges">
   <a href="https://github.com/riz1ash786/react-portfolio">
-    <img src="https://img.shields.io/badge/Repository-React Portfolio-blue?style=for-the-badge&logo=GITHUB&logoColor=white" alt="Text Editor Repository"/>
+    <img src="https://img.shields.io/badge/Repository-Book Search Engine-blue?style=for-the-badge&logo=GITHUB&logoColor=white" alt="Repository Link"/>
   </a>
 </div>
 
