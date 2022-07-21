@@ -18,7 +18,17 @@
 
 ## Description
 
-Using React I have created a personal portfolio to display some examples of my work to potential employers and clients. This application is fully functional and desktop/mobile friendly.
+I have been tasked to take starter code with a fully functioning Google Books API search engine built with a RESTful API, and refactor it to be a GraphQL API built with Apollo Server. The app was built using the MERN stack with a React front end, MongoDB database, and Node.js/Express.js server and API.
+
+To complete this successfully I will need to do the following:
+
+1. Set up an Apollo Server to use GraphQL queries and mutations to fetch and modify data, replacing the existing RESTful API.
+
+2. Modify the existing authentication middleware so that it works in the context of a GraphQL API.
+
+3. Create an Apollo Provider so that requests can communicate with an Apollo Server.
+
+4. Deploy your application to Heroku with a MongoDB database using MongoDB Atlas.
 
 ---
 
@@ -27,23 +37,22 @@ Using React I have created a personal portfolio to display some examples of my w
 Start with cloning this repository link on to your local machine:
 
 ```
-$ git clone https://github.com/riz1ash786/react-portfolio
-$ cd react-portfolio
+$ git clone https://github.com/riz1ash786/book-search-engine
+$ cd book-search-engine
 ```
 
 To install the required dependencies and set up the application, run:
 
 ```
 $ npm i
-$ npm run build
-$ npm start
+$ npm run develop
 ```
 
 ---
 
 ## Usage
 
-This application can be deployed locally or if you wish to deploy this application on Github Pages then please use the link provided in the 'Deployed Application' section listed below.
+This application can be deployed locally or if you wish to deploy this application on Heroku then please use the link provided in the 'Deployed Application' section listed below.
 
 ---
 
@@ -87,21 +96,21 @@ This application utilises the [ISC License](https://opensource.org/licenses/ISC 
 
 ## Screenshots
 
-![Homepage](src/assets/home.png)
+![Homepage](client/public/homepage.png)
 
-![Work Samples](src/assets/work.png)
+![Signup](client/public/signup.png)
 
-![Contact Form](src/assets/contact.png)
+![Login](client/public/login.png)
 
-![Mobile Version](src/assets/mobileversion.png)
+![Search Results](client/public/search-results.png)
 
 ---
 
 ## Deployed Application
 
 <div id="badges">
-  <a href="https://riz1ash786.github.io/react-portfolio//">
-    <img src="https://img.shields.io/badge/Github Pages-React Portfolio-blue?style=for-the-badge&logo=GITHUBPAGES&logoColor=white" alt="Text EditorHeroku Link"/>
+  <a href="https://github.com/riz1ash786/book-search-engine">
+    <img src="https://img.shields.io/badge/HEROKU-Book Search Engine-blue?style=for-the-badge&logo=GITHUBPAGES&logoColor=white" alt="Text EditorHeroku Link"/>
   </a>
 </div>
 
